@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1fb141;
+        stroke: #fff;
+        stroke-width: 8px;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Rechteck_2" data-name="Rechteck 2" class="cls-1" d="M32.457,32.457H480V480H32.457V32.457Z"/>
+  <circle class="cls-2" cx="317.36" cy="194.516" r="62.516"/>
+  <circle id="Ellipse_1_Kopie" data-name="Ellipse 1 Kopie" class="cls-2" cx="317.36" cy="319.515" r="62.516"/>
+  <path id="Rechteck_1" data-name="Rechteck 1" class="cls-3" d="M131.988,132H255.012V382H131.988V132Z"/>
+</svg>

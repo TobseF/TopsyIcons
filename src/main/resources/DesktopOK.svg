@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #103758;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #53b7c6;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #1ea7f7;
+      }
+    </style>
+  </defs>
+  <path id="Abgerundetes_Rechteck_1" data-name="Abgerundetes Rechteck 1" class="cls-1" d="M26.5,28.913H484.292a16.866,16.866,0,0,1,16.866,16.866v359a16.866,16.866,0,0,1-16.866,16.866H26.5A16.866,16.866,0,0,1,9.638,404.781v-359A16.866,16.866,0,0,1,26.5,28.913Z"/>
+  <path id="Form_1" data-name="Form 1" class="cls-1" d="M193.958,458.993s-1.681,5.588-4.819,7.228-14.457,8.433-14.457,8.433-6.01,4.945,2.41,4.945H334.908s6.689-2.274,0-6.15-13.252-7.228-13.252-7.228-3.02-2.6-3.614-8.433-4.818-42.164-4.818-42.164l-115.652-2.41"/>
+  <path id="Abgerundetes_Rechteck_2" data-name="Abgerundetes Rechteck 2" class="cls-2" d="M42.165,40.96H467.426a16.866,16.866,0,0,1,16.866,16.866V327.68a16.866,16.866,0,0,1-16.866,16.866H42.165A16.866,16.866,0,0,1,25.3,327.68V57.826A16.866,16.866,0,0,1,42.165,40.96Z"/>
+  <path id="Rechteck_1" data-name="Rechteck 1" class="cls-3" d="M40.96,53.007H469.835V332.5H40.96V53.007Zm13.252,20.48h69.873V143.36H54.212V73.487Z"/>
+  <path id="Rechteck_3" data-name="Rechteck 3" class="cls-4" d="M54.212,72.282h78.306v78.306H54.212V72.282Z"/>
+  <path id="Rechteck_3_Kopie" data-name="Rechteck 3 Kopie" class="cls-4" d="M54.212,169.864h78.306v78.305H54.212V169.864Z"/>
+  <path id="Rechteck_3_Kopie_2" data-name="Rechteck 3 Kopie 2" class="cls-4" d="M151.793,73.487H230.1v78.306H151.793V73.487Z"/>
+  <path id="Rechteck_3_Kopie_3" data-name="Rechteck 3 Kopie 3" class="cls-4" d="M245.76,72.282h78.306v78.306H245.76V72.282Z"/>
+  <path id="Rechteck_3_Kopie_4" data-name="Rechteck 3 Kopie 4" class="cls-4" d="M339.727,73.487h78.306v78.306H339.727V73.487Z"/>
+  <path id="Rechteck_3_Kopie_5" data-name="Rechteck 3 Kopie 5" class="cls-4" d="M151.793,169.864H230.1v78.305H151.793V169.864Z"/>
+  <path id="Rechteck_3_Kopie_6" data-name="Rechteck 3 Kopie 6" class="cls-4" d="M245.76,169.864h78.306v78.305H245.76V169.864Z"/>
+</svg>

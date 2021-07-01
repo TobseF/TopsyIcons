@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <circle cx="256" cy="256" r="253" style="fill:rgb(210,226,228);"/>
+    <path d="M256,3C395.635,3 509,116.365 509,256C509,395.635 395.635,509 256,509C116.365,509 3,395.635 3,256C3,116.365 116.365,3 256,3ZM256,15C389.012,15 497,122.988 497,256C497,389.012 389.012,497 256,497C122.988,497 15,389.012 15,256C15,122.988 122.988,15 256,15Z" style="fill:rgb(161,176,178);"/>
+    <path d="M57,363L187.536,492.091L278.5,503L386.925,465.648L427.047,437.381L465.952,389.053L493.003,329L504.857,269L495.739,201.213L452,158.022L343,191.042L309.054,157.896L200,192.292L166,158.429L57,242L95.169,279.284L57,363Z" style="fill:rgb(176,192,194);"/>
+    <path d="M256,3C395.635,3 509,116.365 509,256C509,395.635 395.635,509 256,509C116.365,509 3,395.635 3,256C3,116.365 116.365,3 256,3ZM256,15C389.012,15 497,122.988 497,256C497,389.012 389.012,497 256,497C122.988,497 15,389.012 15,256C15,122.988 122.988,15 256,15Z" style="fill:rgb(161,176,178);"/>
+    <g>
+        <g id="Folder">
+            <path d="M57,165L57,242L166,242L166,158L157,148L136,148L126,158L68,158L68,165L57,165Z" style="fill:rgb(241,196,15);"/>
+            <path d="M164,239L158,239L158,165L68,165L68,162L164,162" style="fill:rgb(225,152,25);"/>
+        </g>
+        <g id="Folder1" serif:id="Folder" transform="matrix(1,0,0,1,143,-1.13687e-13)">
+            <path d="M57,165L57,242L166,242L166,158L157,148L136,148L126,158L68,158L68,165L57,165Z" style="fill:rgb(241,196,15);"/>
+            <path d="M164,239L158,239L158,165L68,165L68,162L164,162" style="fill:rgb(225,152,25);"/>
+        </g>
+        <g id="Folder2" serif:id="Folder" transform="matrix(1,0,0,1,286,0)">
+            <path d="M57,165L57,242L166,242L166,158L157,148L136,148L126,158L68,158L68,165L57,165Z" style="fill:rgb(241,196,15);"/>
+            <path d="M164,239L158,239L158,165L68,165L68,162L164,162" style="fill:rgb(225,152,25);"/>
+        </g>
+        <g id="Folder3" serif:id="Folder" transform="matrix(1,0,0,1,286,121)">
+            <path d="M57,165L57,242L166,242L166,158L157,148L136,148L126,158L68,158L68,165L57,165Z" style="fill:rgb(241,196,15);"/>
+            <path d="M164,239L158,239L158,165L68,165L68,162L164,162" style="fill:rgb(225,152,25);"/>
+        </g>
+        <g id="Folder4" serif:id="Folder" transform="matrix(1,0,0,1,143,121)">
+            <path d="M57,165L57,242L166,242L166,158L157,148L136,148L126,158L68,158L68,165L57,165Z" style="fill:rgb(241,196,15);"/>
+            <path d="M164,239L158,239L158,165L68,165L68,162L164,162" style="fill:rgb(225,152,25);"/>
+        </g>
+        <g id="Folder5" serif:id="Folder" transform="matrix(1,0,0,1,2.84217e-14,121)">
+            <path d="M57,165L57,242L166,242L166,158L157,148L136,148L126,158L68,158L68,165L57,165Z" style="fill:rgb(241,196,15);"/>
+            <path d="M164,239L158,239L158,165L68,165L68,162L164,162" style="fill:rgb(225,152,25);"/>
+        </g>
+    </g>
+</svg>

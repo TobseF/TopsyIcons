@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512.012" height="512.012" viewBox="0 0 322 322">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #343434;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ec673a;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Form_1" data-name="Form 1" class="cls-1" d="M157,12L2,42,1,279l156,31"/>
+  <path id="Form_2" data-name="Form 2" class="cls-2" d="M165,310V11L321,42V280"/>
+  <path id="Form_4" data-name="Form 4" class="cls-3" d="M239,47l14,3V92l-39,40,38,2v41l54-2-53,61-1,34-14,2,1-38,41-46-42,2,2-41-56-2,53-57"/>
+</svg>

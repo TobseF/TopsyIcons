@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path id="Paper" d="M502,26L502,496C502,502.034 497.034,507 491,507L148,507C141.966,507 137,502.034 137,496L137,26C137,19.966 141.966,15 148,15L322.335,15L502,172.117L502,26Z" style="fill:rgb(198,198,198);fill-rule:nonzero;"/>
+    <rect id="Line-Bottom" serif:id="Line Bottom" x="192" y="366" width="254" height="37" style="fill:rgb(156,154,155);"/>
+    <rect id="Line-Top" serif:id="Line Top" x="192" y="154" width="254" height="37" style="fill:rgb(156,154,155);"/>
+    <path id="Shadow" d="M322.335,172.117L502,172.117L502,312.842L322.335,172.117Z" style="fill:rgb(53,53,53);fill-opacity:0.4;fill-rule:nonzero;"/>
+    <path id="Form_2" d="M502,172.117L322.335,172.117L322.335,15L502,172.117Z" style="fill:rgb(217,217,217);fill-rule:nonzero;"/>
+    <path id="Highlight" d="M140,214L496,214L496,342L140,342L140,214ZM190,224L445,224L445,262L190,262L190,224Z" style="fill:rgb(254,233,37);fill-opacity:0.7;fill-rule:nonzero;"/>
+    <rect id="Line-Orangeeck_3" serif:id="Line Orangeeck_3" x="192" y="295" width="254" height="37" style="fill:rgb(243,167,80);fill-opacity:0.7;"/>
+    <rect id="Line-Orange" serif:id="Line Orange" x="192" y="224" width="254" height="37" style="fill:rgb(243,167,80);fill-opacity:0.7;"/>
+    <path id="Arrow" d="M4,332.151L82,332.3L82,390.017L197,278.5L82,166.988L82,224.705L4,224.849L4,332.151Z" style="fill:rgb(180,3,3);fill-rule:nonzero;"/>
+</svg>
