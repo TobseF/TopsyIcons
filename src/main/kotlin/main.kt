@@ -13,6 +13,8 @@ fun main() {
     generatePreviewHTML(icons)
 
     generatePreviewMarkdown(icons)
+
+    generateTagList(icons)
 }
 
 private fun generatePreviewMarkdown(icons: List<File>) {
@@ -52,6 +54,13 @@ private fun generateTableLine(row: List<File>) {
     println(iconImages)
     println(tags)
 }
+
+private fun generateTagList(icons: List<File>) {
+    println("# Tags")
+    val tags = icons.joinToString(", ") { it.asTag()+" Icon" }
+    println(tags)
+}
+
 
 fun File.resource() = "src/main/resources/${this.name}"
 
