@@ -35,16 +35,16 @@ If you are looking for additional nice and flat icons for Windows, check out my
 |Event Ghost|FileTypes Man|Fritz Power Line|Guetzli Converter|HeidiSQL|Hex Editor|HTTrack Website Copier|
 |![HWiNFO Icon](src/main/resources/HWiNFO.png)|![JPEGmini Icon](src/main/resources/JPEGmini.png)|![JPEGmini Pro Icon](src/main/resources/JPEGmini_Pro.png)|![Krita Icon](src/main/resources/Krita.png)|![Launch4J Icon](src/main/resources/Launch4J.png)|![Launchbox Icon](src/main/resources/Launchbox.png)|![LogCat Icon](src/main/resources/LogCat.png)|
 |HWiNFO|JPEGmini|JPEGmini Pro|Krita|Launch4J|Launchbox|LogCat|
-|![MailStore Icon](src/main/resources/MailStore.png)|![Meshlab Icon](src/main/resources/Meshlab.png)|![Mission Control Icon](src/main/resources/Mission_Control.png)|![MP3 Tag Editor Icon](src/main/resources/MP3_Tag_Editor.png)|![OpenScad Icon](src/main/resources/OpenScad.png)|![Photonster Icon](src/main/resources/Photonster.png)|![Photon Workshop Icon](src/main/resources/Photon_Workshop.png)|
-|MailStore|Meshlab|Mission Control|MP3 Tag Editor|OpenScad|Photonster|Photon Workshop|
-|![Picon Icon](src/main/resources/Picon.png)|![PlantUML Icon](src/main/resources/PlantUML.png)|![Prepros Icon](src/main/resources/Prepros.png)|![Proguard Icon](src/main/resources/Proguard.png)|![Pushbullet Icon](src/main/resources/Pushbullet.png)|![qBittorent Icon](src/main/resources/qBittorent.png)|![Sandbox Icon](src/main/resources/Sandbox.png)|
-|Picon|PlantUML|Prepros|Proguard|Pushbullet|qBittorent|Sandbox|
-|![Sandbox Config Icon](src/main/resources/Sandbox_Config.png)|![SciaReto Icon](src/main/resources/SciaReto.png)|![ShoeBox Icon](src/main/resources/ShoeBox.png)|![SourceTrail Icon](src/main/resources/SourceTrail.png)|![SpaceMonger Icon](src/main/resources/SpaceMonger.png)|![SparkoCam Icon](src/main/resources/SparkoCam.png)|![Spin 3D Mesh Converter Icon](src/main/resources/Spin_3D_Mesh_Converter.png)|
-|Sandbox Config|SciaReto|ShoeBox|SourceTrail|SpaceMonger|SparkoCam|Spin 3D Mesh Converter|
-|![Textify Icon](src/main/resources/Textify.png)|![Total Commander Icon](src/main/resources/Total_Commander.png)|![TreeSize Icon](src/main/resources/TreeSize.png)|![UltraEdit Icon](src/main/resources/UltraEdit.png)|![Unlocker Icon](src/main/resources/Unlocker.png)|![USB Safely Remove Icon](src/main/resources/USB_Safely_Remove.png)|![Vector Magic Icon](src/main/resources/Vector_Magic.png)|
-|Textify|Total Commander|TreeSize|UltraEdit|Unlocker|USB Safely Remove|Vector Magic|
-|![Visual VM Icon](src/main/resources/Visual_VM.png)|![Windroye Icon](src/main/resources/Windroye.png)|![WinMerge Icon](src/main/resources/WinMerge.png)|![Wox Launcher Icon](src/main/resources/Wox_Launcher.png)|![XnConvert Icon](src/main/resources/XnConvert.png)|![XnView Icon](src/main/resources/XnView.png)|
-|Visual VM|Windroye|WinMerge|Wox Launcher|XnConvert|XnView|
+|![MailStore Icon](src/main/resources/MailStore.png)|![Meshlab Icon](src/main/resources/Meshlab.png)|![Mission Control Icon](src/main/resources/Mission_Control.png)|![MP3 Tag Editor Icon](src/main/resources/MP3_Tag_Editor.png)|![mpv Mediaplayer Icon](src/main/resources/mpv_Mediaplayer.png)|![OpenScad Icon](src/main/resources/OpenScad.png)|![Photonster Icon](src/main/resources/Photonster.png)|
+|MailStore|Meshlab|Mission Control|MP3 Tag Editor|mpv Mediaplayer|OpenScad|Photonster|
+|![Photon Workshop Icon](src/main/resources/Photon_Workshop.png)|![Picon Icon](src/main/resources/Picon.png)|![PlantUML Icon](src/main/resources/PlantUML.png)|![Prepros Icon](src/main/resources/Prepros.png)|![Proguard Icon](src/main/resources/Proguard.png)|![Pushbullet Icon](src/main/resources/Pushbullet.png)|![qBittorent Icon](src/main/resources/qBittorent.png)|
+|Photon Workshop|Picon|PlantUML|Prepros|Proguard|Pushbullet|qBittorent|
+|![Sandbox Icon](src/main/resources/Sandbox.png)|![Sandbox Config Icon](src/main/resources/Sandbox_Config.png)|![SciaReto Icon](src/main/resources/SciaReto.png)|![ShoeBox Icon](src/main/resources/ShoeBox.png)|![SourceTrail Icon](src/main/resources/SourceTrail.png)|![SpaceMonger Icon](src/main/resources/SpaceMonger.png)|![SparkoCam Icon](src/main/resources/SparkoCam.png)|
+|Sandbox|Sandbox Config|SciaReto|ShoeBox|SourceTrail|SpaceMonger|SparkoCam|
+|![Spin 3D Mesh Converter Icon](src/main/resources/Spin_3D_Mesh_Converter.png)|![Textify Icon](src/main/resources/Textify.png)|![Total Commander Icon](src/main/resources/Total_Commander.png)|![TreeSize Icon](src/main/resources/TreeSize.png)|![UltraEdit Icon](src/main/resources/UltraEdit.png)|![Unlocker Icon](src/main/resources/Unlocker.png)|![USB Safely Remove Icon](src/main/resources/USB_Safely_Remove.png)|
+|Spin 3D Mesh Converter|Textify|Total Commander|TreeSize|UltraEdit|Unlocker|USB Safely Remove|
+|![Vector Magic Icon](src/main/resources/Vector_Magic.png)|![Visual VM Icon](src/main/resources/Visual_VM.png)|![Windroye Icon](src/main/resources/Windroye.png)|![WinMerge Icon](src/main/resources/WinMerge.png)|![Wox Launcher Icon](src/main/resources/Wox_Launcher.png)|![XnConvert Icon](src/main/resources/XnConvert.png)|![XnView Icon](src/main/resources/XnView.png)|
+|Vector Magic|Visual VM|Windroye|WinMerge|Wox Launcher|XnConvert|XnView|
 
 Process finished with exit code 0
 
