@@ -46,14 +46,7 @@ If you are looking for additional nice and flat icons for Windows, check out my
 |![Vector Magic Icon](src/main/resources/Vector_Magic.png)|![Visual VM Icon](src/main/resources/Visual_VM.png)|![Windroye Icon](src/main/resources/Windroye.png)|![WinMerge Icon](src/main/resources/WinMerge.png)|![Wox Launcher Icon](src/main/resources/Wox_Launcher.png)|![XnConvert Icon](src/main/resources/XnConvert.png)|![XnView Icon](src/main/resources/XnView.png)|
 |Vector Magic|Visual VM|Windroye|WinMerge|Wox Launcher|XnConvert|XnView|
 
-Process finished with exit code 0
-
-
-Process finished with exit code 0
-
-
 ## 📜 Licence
 ![CC0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)
 ![CC0](https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1)  
 This work is marked with [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1)
-
