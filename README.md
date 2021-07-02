@@ -41,10 +41,13 @@ If you are looking for additional nice and flat icons for Windows, check out my
 |Picon|PlantUML|Prepros|Proguard|Pushbullet|qBittorent|Sandbox|
 |![Sandbox Config Icon](src/main/resources/Sandbox_Config.png)|![SciaReto Icon](src/main/resources/SciaReto.png)|![ShoeBox Icon](src/main/resources/ShoeBox.png)|![SourceTrail Icon](src/main/resources/SourceTrail.png)|![SpaceMonger Icon](src/main/resources/SpaceMonger.png)|![SparkoCam Icon](src/main/resources/SparkoCam.png)|![Spin 3D Mesh Converter Icon](src/main/resources/Spin_3D_Mesh_Converter.png)|
 |Sandbox Config|SciaReto|ShoeBox|SourceTrail|SpaceMonger|SparkoCam|Spin 3D Mesh Converter|
-|![Textify Icon](src/main/resources/Textify.png)|![Total Commander Icon](src/main/resources/Total_Commander.png)|![TreeSize Icon](src/main/resources/TreeSize.png)|![UltraEdit Icon](src/main/resources/UltraEdit.png)|![Unlocker Icon](src/main/resources/Unlocker.png)|![USB Safely Remove Icon](src/main/resources/USB_Safely_Remove.png)|![Visual VM Icon](src/main/resources/Visual_VM.png)|
-|Textify|Total Commander|TreeSize|UltraEdit|Unlocker|USB Safely Remove|Visual VM|
-|![Windroye Icon](src/main/resources/Windroye.png)|![WinMerge Icon](src/main/resources/WinMerge.png)|![Wox Launcher Icon](src/main/resources/Wox_Launcher.png)|![XnConvert Icon](src/main/resources/XnConvert.png)|![XnView Icon](src/main/resources/XnView.png)|
-|Windroye|WinMerge|Wox Launcher|XnConvert|XnView|
+|![Textify Icon](src/main/resources/Textify.png)|![Total Commander Icon](src/main/resources/Total_Commander.png)|![TreeSize Icon](src/main/resources/TreeSize.png)|![UltraEdit Icon](src/main/resources/UltraEdit.png)|![Unlocker Icon](src/main/resources/Unlocker.png)|![USB Safely Remove Icon](src/main/resources/USB_Safely_Remove.png)|![Vector Magic Icon](src/main/resources/Vector_Magic.png)|
+|Textify|Total Commander|TreeSize|UltraEdit|Unlocker|USB Safely Remove|Vector Magic|
+|![Visual VM Icon](src/main/resources/Visual_VM.png)|![Windroye Icon](src/main/resources/Windroye.png)|![WinMerge Icon](src/main/resources/WinMerge.png)|![Wox Launcher Icon](src/main/resources/Wox_Launcher.png)|![XnConvert Icon](src/main/resources/XnConvert.png)|![XnView Icon](src/main/resources/XnView.png)|
+|Visual VM|Windroye|WinMerge|Wox Launcher|XnConvert|XnView|
+
+Process finished with exit code 0
+
 
 Process finished with exit code 0
 
